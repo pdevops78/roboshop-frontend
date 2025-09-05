@@ -1,4 +1,4 @@
-@Library('roboshop') _
+@Library('expense') _
 env.component = "frontend"
 
 sharedLib()
